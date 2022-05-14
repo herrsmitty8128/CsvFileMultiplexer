@@ -14,7 +14,7 @@ CSV File Multiplexer is licensed under the Boost Software License - Version 1.0 
 
 ### **Installation**
 
-To use CsvFileMultiplexer in your code simply include CsvFileMultiplexer.py in the appropriate subdirectory of your project. Then include the appropriate *import CsvFileMultiplexer.py* statement in your code file(s).
+To use CsvFileMultiplexer in your code, simply include CsvFileMultiplexer.py in the appropriate subdirectory of your project. Then include the appropriate *import CsvFileMultiplexer.py* statement in your code file(s).
 
 ### **Sample Code and Usage**
 
