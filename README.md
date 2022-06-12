@@ -12,7 +12,7 @@ CSV File Multiplexer is licensed under the Boost Software License - Version 1.0 
 
 ## Sample Code and Usage
 
-To use CsvFileMultiplexer in your code, simply include CsvFileMultiplexer.py in the appropriate subdirectory of your project. Then include the appropriate *import CsvFileMultiplexer.py* statement in your code file(s).
+To use CsvFileMultiplexer in your code, simply include CsvFileMultiplexer.py in the appropriate subdirectory of your project. Then include the appropriate *import CsvFileMultiplexer* statement in your code file(s).
 
 ### Step 1: Subclass the *CsvFileMultiplexer.AbstractRowConverter* class and implement the *fieldnames* and *convert* methods.
 
